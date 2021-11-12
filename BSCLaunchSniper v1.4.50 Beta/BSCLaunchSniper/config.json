@@ -1,0 +1,15 @@
+{
+   "walletAddress": "0xC7a6Bba9353671D0a7a4C0d420882d5ECa2F55c0",
+   "walletPrivateKey": "e562b65a5289516fe5dbbfaae6f35f5e8050ade0a6f8273f71eee7dd3a3eb4aa",
+   "exchangeRouterAddress": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+   "liquidityPairAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+   "nonBNBPairAddress": "False",
+   "bscNode": "wss://speedy-nodes-nyc.moralis.io/7d2b1617b3f83fea0c92aeb7/bsc/mainnet/ws",
+   "transactionRevertTimeSeconds": "10000",
+   "gasAmount": "2500000",
+   "gasPrice": "5",
+   "approveSellTimeDelay": "1",
+   "stopLossMultiplier": "0.5",
+   "sellTokens": "False",
+   "showPoocoinPage": "False"
+}
